@@ -1,0 +1,10 @@
+custom:
+  env: prod
+
+info:
+  name: Account Service
+  description: A service for managing accounts - production environment
+  version: 1.0.1
+  contact:
+    name: Srimanta Ganguly
+    email: srimantagangulu02@gamil.com
