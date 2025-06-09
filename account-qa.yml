@@ -1,0 +1,10 @@
+custom:
+  env: qa
+
+info:
+  name: Account Service
+  description: A service for managing accounts - QA environment
+  version: 1.0.2
+  contact:
+    name: Srimanta Ganguly
+    email: srimantagangulu02@gamil.com
