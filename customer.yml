@@ -1,0 +1,10 @@
+custom:
+  env: default
+
+info:
+  name: Customer Service
+  description: A service for managing accounts
+  version: 1.0.3
+  contact:
+    name: Srimanta Ganguly
+    email: srimantagangulu02@gamil.com
