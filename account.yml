@@ -2,6 +2,11 @@ custom:
   env: DEFAULT
 
 info:
+  app:
+    name: "accounts"
+    description: "Eazy Bank Accounts Application"
+    version: "1.0.0"
+    
   name: Account Service
   description: A service for managing accounts
   version: 1.0.3
