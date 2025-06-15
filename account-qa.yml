@@ -1,5 +1,5 @@
 custom:
-  env: qa
+  env: QA
 
 info:
   name: Account Service
