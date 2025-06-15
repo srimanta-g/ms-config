@@ -1,5 +1,5 @@
 custom:
-  env: default
+  env: DEFAULT
 
 info:
   name: Account Service
