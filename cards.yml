@@ -1,3 +1,6 @@
+custom:
+  env: DEFAULT
+
 info:
   name: Cards Service
   description: A service for managing cards
