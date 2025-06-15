@@ -1,3 +1,6 @@
+custom:
+  env: PROD
+
 info:
   name: Cards Service
   description: A service for managing cards - production environment
