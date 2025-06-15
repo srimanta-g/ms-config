@@ -1,3 +1,6 @@
+custom:
+  env: QA
+
 info:
   name: Cards Service
   description: A service for managing cards - QA Environment
